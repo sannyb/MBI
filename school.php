@@ -4,9 +4,9 @@ require_once "header.php";
 ?>
 
 
-
-
-
+<?php
+include "body.html";
+?>
 
 
 
