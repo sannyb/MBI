@@ -5,7 +5,7 @@
 
 
 <!DOCTYPE html>
-<html>
+<html lang="En">
 <head>
 <title>MB Independent Academy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -13,6 +13,7 @@
 <link rel="stylesheet" type="text/css" href="style/phone.css">
 <link rel="stylesheet" type="text/css" href="style/desktop.css">
 <link rel="stylesheet" type="text/css" href="style/tablet.css">
+<link rel="stylesheet" type="text/css" href="style/mbi.css">
 <link rel="stylesheet" type="text/css" href="bootstrap-4.0.0-dist\css\bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="font/css/font-awesome.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -43,7 +44,10 @@ Grade 12 tutors, Burgersfort Schools, Burgersfort private school  ">
 
 <header class="header">
 
-    <div class="menu_content">
+    <div class="menu_content pt-2">
+        <div class="container position-absolute top-0 left-0 fs-3 text-danger float-right  w-25 mb-3">
+         <i class="fa fa-close"></i>
+        </div>
         <p>Some content will be here in this div</p>
         <p>Some content will be here in this div</p>
         <p>Some content will be here in this div</p>
