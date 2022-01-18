@@ -16,7 +16,7 @@
 @media only screen and (max-width:600px){
     
 .menu_content{
-    width:60%;
+    width:70%;
     background-color: rgb(8, 8, 97);
     color:white;
     padding-left: 5px;
@@ -28,11 +28,6 @@
     left:-1px;
     box-shadow: 3px 3px 3px rgb(37, 37, 37);
     
-}
-.menu:hover + .menu_content{
-   width:50%;
-  display: block;
-
 }
   body{
       overflow-x:hidden;

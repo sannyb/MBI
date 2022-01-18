@@ -9,6 +9,7 @@
 <head>
 <title>MB Independent Academy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="refresh" content="10"/>
 <link rel="shortcut icon" href="img/favicon.ico">
 <link rel="stylesheet" type="text/css" href="style/phone.css">
 <link rel="stylesheet" type="text/css" href="style/desktop.css">
@@ -44,16 +45,22 @@ Grade 12 tutors, Burgersfort Schools, Burgersfort private school  ">
 
 <header class="header">
 
-    <div class="menu_content pt-2">
-        <div class="container position-absolute top-0 left-0 fs-3 text-danger float-right  w-25 mb-3">
+    <div class="menu_content pt-3">
+        <div class="container position-absolute top-0 right-0 fs-3 text-danger float-right  w-25 mb-3 menu_close">
          <i class="fa fa-close"></i>
         </div>
-        <p>Some content will be here in this div</p>
-        <p>Some content will be here in this div</p>
-        <p>Some content will be here in this div</p>
-        <p>Some content will be here in this div</p>
-        <p>Some content will be here in this div</p>
 
+        <div class="container-fluid  mt-3 p-0"> 
+            <p class="text-warning"><b>Register Online Now!!</b></p>
+            <hr class="border">
+            <div class="fs-4 text-center font-weight-bold"><div class="float-left fs-4 "><i class="fa fa-book"></i></div>
+             <a href="#about" class="text-white">ABOUT US</a></div>
+            <div class="fs-4 text-center font-weight-bold"><div class="float-left fs-4 "><i class="fa fa-book"></i></div><a href="#about" class="text-white">ABOUT US</a></div>
+            <p>Some content will be here in this div</p>
+            <p>Some content will be here in this div</p>    
+
+        </div>
+      
     </div>
 <div id="top_news1">
 <div class="top_news container-fluid text-white  bg-dark" id="top_news">Coronavirus (Covid-19) Updates |
