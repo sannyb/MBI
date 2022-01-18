@@ -5,3 +5,10 @@
 
     display:none;
 }
+.hoverr div a:hover{
+    text-decoration: underline;
+    opacity: 0.8;
+}
+.content2>div a{
+    color:white;
+}

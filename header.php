@@ -34,7 +34,7 @@ Join today!!">
 <meta name="keywords" content="MB Independent Academy, Grade 10 tutors,Grade 11 tutors,
 Grade 12 tutors, Burgersfort Schools, Burgersfort private school  ">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-
+<link rel="shortcut icon" href="img/WhatsApp Image 2022-01-15 at 12.36.18 (2).jpeg" />
 
 
 </head>
@@ -76,11 +76,11 @@ Grade 12 tutors, Burgersfort Schools, Burgersfort private school  ">
         </div>
 
         <!--This is for desktop only-->
-        <div class="content2" id="p-hide">
-            <div>Enroll With Us</div>
-            <div>Apply Online</div>
-            <div>About Us</div>
-            <div>Our Campus</div>
+        <div class="content2 hoverr" id="p-hide">
+            <div><a href="#">Enroll With Us</a></div>
+            <div><a href="#">Apply Online</a></div>
+            <div><a href="#">About Us</a></div>
+            <div><a href="#">Our Campus</a></div>
         </div>
         <!--End of desktop menu-->
 
@@ -92,7 +92,7 @@ Grade 12 tutors, Burgersfort Schools, Burgersfort private school  ">
                 <strong>MB Independent Academy,</strong><br>
                 <span class="normal_font">Road To 100% Pass Rate</span>
             </div>  
-            <img class="mx-auto d-block float-left" src="img/bfg.PNG" alt="Logo MBI">
+            <img class="mx-auto d-block float-left" src="img/WhatsApp Image 2022-01-15 at 12.36.18 (2).jpeg" alt="Logo MBI">
             <div class="float-left animation1">
                 <p class="text-dark"><strong>Grade 10 to 12:
                    <blockquote class="streams_font">Science and commerce streams<blockquote>
