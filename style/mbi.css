@@ -5,10 +5,19 @@
 
     display:none;
 }
+ 
 .hoverr div a:hover{
     text-decoration: underline;
     opacity: 0.8;
 }
 .content2>div a{
-    color:white;
+    color:white;}
+
+.theme-color{
+    background-color: rgb(8, 8, 97)!important;
+    background-image: linear-gradient( to bottom right, rgb(8, 8, 97), rgb(85, 85, 156))!important;
+}
+.left-0{
+    left:0px !important;
+
 }
