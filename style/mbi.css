@@ -20,6 +20,7 @@
 .left-0{
     left:0px !important;
 
+
 }
 .fisrt-picc{
     display: block;
@@ -29,4 +30,12 @@
 }
 .fisrt-picc{
     display: block;
+
+}
+.right-0{
+    right:0px !important;
+}
+.menu_content i{
+    font-size: 25px;
+
 }
