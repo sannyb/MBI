@@ -5,3 +5,7 @@
 
     display:none;
 }
+.theme-color{
+    background-color: rgb(8, 8, 97)!important;
+    background-image: linear-gradient( to bottom right, rgb(8, 8, 97), rgb(85, 85, 156))!important;
+}
