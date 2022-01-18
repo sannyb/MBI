@@ -16,10 +16,9 @@
 @media only screen and (max-width:600px){
     
 .menu_content{
-    width:50%;
+    width:60%;
     background-color: rgb(8, 8, 97);
     color:white;
-    transition: width 1s;
     padding-left: 5px;
     padding-top: 4px;
     height: 100%;
@@ -27,8 +26,8 @@
     z-index: 1;
     top:-1px;
     left:-1px;
-    box-shadow: 3px 3px 3px white;
-    display: none;
+    box-shadow: 3px 3px 3px rgb(37, 37, 37);
+    
 }
 .menu:hover + .menu_content{
    width:50%;
